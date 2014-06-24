@@ -21,3 +21,5 @@ Optional: Tapping on the tabs (requests, messages, etc) should show other view c
 Also, implemented this but wasn't able to remove navbar and tabbar..
 
 Optional: Tapping on the photo should show a view controller with a full-screen photo.
+
+FBdemo_walkthrough.gif
